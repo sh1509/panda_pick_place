@@ -1,0 +1,12 @@
+[submodule "conveyor_demo"]
+	path = conveyor_demo
+	url = https://github.com/rokokoo/conveyor_demo.git
+[submodule "franka_ros"]
+	path = franka_ros
+	url = https://github.com/frankaemika/franka_ros.git
+[submodule "moveit_tutorials"]
+	path = moveit_tutorials
+	url = https://github.com/ros-planning/moveit_tutorials.git
+[submodule "panda_moveit_config"]
+	path = panda_moveit_config
+	url = https://github.com/ros-planning/panda_moveit_config.git
